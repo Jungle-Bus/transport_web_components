@@ -1,0 +1,24 @@
+{
+  "name": "jungle_bus_web_components",
+  "version": "1.0.0",
+  "description": "web components to make transport tools",
+  "main": "/src/transport_thumbnail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jungle-Bus/transport_web_components.git"
+  },
+  "keywords": [
+    "bus",
+    "transport",
+    "web-component"
+  ],
+  "author": "nlehuby",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Jungle-Bus/transport_web_components/issues"
+  },
+  "homepage": "https://github.com/Jungle-Bus/transport_web_components#readme"
+}
