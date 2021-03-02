@@ -19,6 +19,7 @@ class TransportThumbnail extends HTMLElement {
                 displayMode = '🚍';
                 break;
             case 'train':
+            case 'railway':
                 displayMode = '🚆';
                 break;
             case 'subway':

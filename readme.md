@@ -8,7 +8,7 @@ This is a set a web components to make beautiful UI about public transport.
 Import the module on each page that uses the component :
 
 ```html
-<script src="https://unpkg.com/jungle_bus_web_components@1.0.1/src/transport_thumbnail.js"></script>
+<script src="https://unpkg.com/jungle_bus_web_components@1.0.2/src/transport_thumbnail.js"></script>
 ```
 
 Then simply use it like any other tag :

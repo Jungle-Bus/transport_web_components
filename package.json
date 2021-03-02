@@ -1,6 +1,6 @@
 {
   "name": "jungle_bus_web_components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "web components to make transport tools",
   "main": "/src/transport_thumbnail.js",
   "scripts": {
